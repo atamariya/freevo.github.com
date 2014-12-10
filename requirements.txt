@@ -1,0 +1,6 @@
+freevo2
+kaa-base
+kaa-beacon
+kaa-candy
+kaa-metadata
+kaa-webmetadata
