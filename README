@@ -1,6 +1,11 @@
 This is the GitHub Pages site for Freevo, which contains statically built
 API documentation.
 
+Install pre-requisites:
+
+# apt-get install libimlib2-dev libimlib2 libgstreamer1.0-dev libgstreamer1.0 libclutter-gst-dev libclutter-gst-2.0-dev python-cairo python-gi-cairo
+
+
 Use requirements.txt with pip to install freevo2.
 
-pip install -r requirements.txt
+#pip install -r requirements.txt
